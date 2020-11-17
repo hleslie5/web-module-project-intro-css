@@ -47,6 +47,8 @@ table {
 	border-spacing: 0;
 }
 
+
+
 #fire-paragraph {
     text-align: center;
 }
@@ -55,6 +57,10 @@ table {
     text-align: center;
 }
 
-.image-container p {
+#not-just-paragraph p {
 	background-color: DDB9A3;
+}
+
+.footer img {
+	width: 100%;
 }
