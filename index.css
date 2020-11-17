@@ -44,7 +44,11 @@ table {
 	border-spacing: 0;
 }
 
-
+.box {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+  }
 
 
 #fire-paragraph {
