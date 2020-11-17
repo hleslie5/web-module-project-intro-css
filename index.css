@@ -54,3 +54,7 @@ table {
 #bus-paragraph {
     text-align: center;
 }
+
+.image-container p {
+	background-color: DDB9A3;
+}
