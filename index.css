@@ -43,23 +43,53 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-#navbar {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-}
 
-#navbar .plan-your-visit {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
+#rcorners1 {
 	border-radius: 25px;
-  	background: #FF764E;
-  	padding: 20px;
-  	width: 200px;
-  	height: 150px;
+	background: #73AD21;
+	padding: 20px;
+	width: 200px;
+	height: 150px;
   }
 
+  .button1 {
+	background-color: #FF764E;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
+  }
+  
+  .button2 {
+	background-color: #5ED3EB;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
+  }
+  
+  .button3 {
+	background-color: #FFCD69;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
+  }
 
 #fire-paragraph {
     text-align: center;
