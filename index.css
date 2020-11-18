@@ -43,11 +43,21 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-.box {
+#navbar {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+}
+
+#navbar .plan-your-visit {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 25px;
+  	background: #FF764E;
+  	padding: 20px;
+  	width: 200px;
+  	height: 150px;
   }
 
 
