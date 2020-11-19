@@ -47,16 +47,12 @@ table {
 .box {
 	display: inline-flex;
 	flex-direction: row;
+	flex: none;
+	align-items: center;
+	justify-content: space-evenly;
 }
 
-#rcorners1 {
-	border-radius: 25px;
-	padding: 20px;
-	width: 200px;
-	height: 150px;
-  }
-
-.button1 {
+.box .button1 {
 	background-color: #FF764E;
 	border: none;
 	color: white;
@@ -69,7 +65,7 @@ table {
 	border-radius: 12px;
   }
   
-.button2 {
+.box .button2 {
 	background-color: #5ED3EB;
 	border: none;
 	color: white;
@@ -82,7 +78,7 @@ table {
 	border-radius: 12px;
   }
   
-.button3 {
+.box .button3 {
 	background-color: #FFCD69;
 	border: none;
 	color: white;
