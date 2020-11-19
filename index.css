@@ -44,15 +44,16 @@ table {
 	border-spacing: 0;
 }
 
-.section .box {
-	display: inline-flex;
+.flex-container {
+	display: flex;
 	flex-direction: row;
 	flex: none;
 	align-items: center;
 	justify-content: space-evenly;
+	background-color: white;
 }
 
-.box .button1 {
+.flex-container .button1 {
 	background-color: #FF764E;
 	border: none;
 	color: white;
@@ -65,7 +66,7 @@ table {
 	border-radius: 12px;
   }
   
-.box .button2 {
+.flex-container .button2 {
 	background-color: #5ED3EB;
 	border: none;
 	color: white;
@@ -78,7 +79,7 @@ table {
 	border-radius: 12px;
   }
   
-.box .button3 {
+.flex-container .button3 {
 	background-color: #FFCD69;
 	border: none;
 	color: white;
