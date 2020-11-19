@@ -44,7 +44,7 @@ table {
 	border-spacing: 0;
 }
 
-.flex-container {
+.box {
 	display: flex;
 	flex-direction: row;
 	flex: none;
@@ -53,7 +53,7 @@ table {
 	background-color: white;
 }
 
-.flex-container .button1 {
+.button1 {
 	background-color: #FF764E;
 	border: none;
 	color: white;
@@ -66,7 +66,7 @@ table {
 	border-radius: 12px;
   }
   
-.flex-container .button2 {
+.button2 {
 	background-color: #5ED3EB;
 	border: none;
 	color: white;
@@ -79,7 +79,7 @@ table {
 	border-radius: 12px;
   }
   
-.flex-container .button3 {
+.button3 {
 	background-color: #FFCD69;
 	border: none;
 	color: white;
