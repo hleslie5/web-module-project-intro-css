@@ -44,16 +44,13 @@ table {
 	border-spacing: 0;
 }
 
-.box {
-	display: inline-block;
-}
-
-.button1 {
+.container #button1 {
 	border-radius: 25px;
 	background-color: #ff764e;
 	border: none;
 	color: white;
 	padding: 20px; 
+	display: inline;
 	text-align: center;
 	text-decoration: none;
 	font-size: 16px;
@@ -62,12 +59,13 @@ table {
 	height: 150px;  
 }
 
-.button2 {
+.container #button2 {
 	border-radius: 25px;
 	background-color: #5ed3eb;
 	border: none;
 	color: white;
 	padding: 20px; 
+	display: inline;
 	text-align: center;
 	text-decoration: none;
 	font-size: 16px;
@@ -76,12 +74,13 @@ table {
 	height: 150px;  
 }
 
-.button3 {
+.container #button3 {
 	border-radius: 25px;
 	background-color: #ffcd63;
 	border: none;
 	color: white;
 	padding: 20px; 
+	display: inline;
 	text-align: center;
 	text-decoration: none;
 	font-size: 16px;
@@ -90,17 +89,25 @@ table {
 	height: 150px;  
 }
 
+.yosemite-park-guide-box h1 {
+	width: 75%;
+}
 
-#fire-paragraph {
+.yosemite-park-guide-box p {
+	width: 50%;
+	text-align: center;
+}
+#image-container {
+	background: #DDB9A3;
+	background-position: center;
+}
+
+#fire-paragraph p {
     text-align: center;
 }
 
-#bus-paragraph {
+#bus-paragraph p {
     text-align: center;
-}
-
-#not-just-paragraph p {
-	background-color: DDB9A3;
 }
 
 .footer img {
