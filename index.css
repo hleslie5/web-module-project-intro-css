@@ -44,51 +44,44 @@ table {
 	border-spacing: 0;
 }
 
-.box .button1 {
-	border-radius: 25px;
+.container .box1 {
 	background-color: #ff764e;
 	border: none;
 	color: white;
 	padding: 20px; 
-	display: inline;
 	text-align: center;
 	text-decoration: none;
+	display: inline-block;
 	font-size: 16px;
 	margin: 4px 2px;
-	width: 200px;
-	height: 150px;  
+	border-radius: 12px;
 }
 
-.box .button2 {
-	border-radius: 25px;
+.container .box2 {
 	background-color: #5ed3eb;
 	border: none;
 	color: white;
 	padding: 20px; 
-	display: inline;
 	text-align: center;
 	text-decoration: none;
+	display: inline-block;
 	font-size: 16px;
 	margin: 4px 2px;
-	width: 200px;
-	height: 150px;  
+	border-radius: 12px;
 }
 
-.box .button3 {
-	border-radius: 25px;
+.container .box3 {
 	background-color: #ffcd63;
 	border: none;
 	color: white;
 	padding: 20px; 
-	display: inline;
 	text-align: center;
 	text-decoration: none;
+	display: inline-block;
 	font-size: 16px;
 	margin: 4px 2px;
-	width: 200px;
-	height: 150px;  
-}
-
+	border-radius: 12px;
+	
 .yosemite-park-guide-box h1 {
 	width: 75%;
 }
