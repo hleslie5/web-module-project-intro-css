@@ -44,7 +44,9 @@ table {
 	border-spacing: 0;
 }
 
-.button {
+
+.top-menu .button1 {
+	background-color: #FF764E;
 	border-radius: 12px;
 	background: white;
 	border: none;
@@ -55,17 +57,33 @@ table {
 	display: inline-block;
 	font-size: 16px;
 	margin: 4px 2px;
-	
-.button1 {
-	background-color: #FF764E;
 }
 
-.button2 {
+.top-menu .button2 {
 	background-color: #5ED3EB;
-	}
+	border-radius: 12px;
+	background: white;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;}
 
-.button3 {
+.top-menu .button3 {
 	background-color: #FFCD69;
+	border-radius: 12px;
+	background: white;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
 }
  
 #fire-paragraph {
