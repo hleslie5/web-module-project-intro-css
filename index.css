@@ -44,7 +44,7 @@ table {
 	border-spacing: 0;
 }
 
-.button1 {
+.btn-group button {
 	background-color: #ff764e;
 	border: none;
 	color: white;
@@ -57,33 +57,15 @@ table {
 	border-radius: 12px;
 }
 
-.button2 {
+.btn-group button {
 	background-color: #5ed3eb;
-	border: none;
-	color: white;
-	padding: 20px; 
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	border-radius: 12px;
 }
 
-.button3 {
+.btn-group button {
 	background-color: #ffcd63;
-	border: none;
-	color: white;
-	padding: 20px; 
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	border-radius: 12px;
 }
 
-.text-container1 img {
+img {
 	border-radius: 50%;
 }
 
