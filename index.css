@@ -69,11 +69,12 @@ img {
 	border-radius: 50%;
 }
 
-.yosemite-park-guide-box h1 {
-	width: 75%;
+.not-just-a-great-valley p {
+	background-color: #DDB9A3;	
+	text-align: center;
 }
 
-.yosemite-park-guide-box p {
+.text-container p {
 	width: 50%;
 	margin: 500 px auto;
 	text-align: center;
