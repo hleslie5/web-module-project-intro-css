@@ -45,10 +45,10 @@ table {
 }
 
 html, body {
-	font-family: Roboto Mono;
+	font-family: 'Roboto Mono';
 }
 
-.nav_bar {
+.btn-group {
 	border: none;
 	color: white;
 	padding: 20px; 
@@ -60,20 +60,24 @@ html, body {
 	border-radius: 12px;
 }
 
-.nav_bar {
+.button1 {
 	background-color: #ff764e;
 }
 
-.nav_bar button {
+.button2 {
 	background-color: #5ed3eb;
 }
 
-.nav_bar button {
+.button3 {
 	background-color: #ffcd63;
 }
 
 img {
 	border-radius: 50%;
+}
+
+.content_1 h1 {
+	font-family: 'Chelsea Market';
 }
 
 .great-valley {
