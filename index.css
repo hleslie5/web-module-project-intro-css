@@ -79,12 +79,14 @@ header .btn-group {
 }
 
 .content_1_box h1 {
+	text-align: center;
 	font-family: 'Chelsea Market';
 }
 
-.great-valley {
+#great-valley {
 	background-color: #DDB9A3;	
 	text-align: center;
+	font-family: 'Roboto Mono';
 }
 
 #image-container {
@@ -96,11 +98,43 @@ header .btn-group {
     text-align: center;
 }
 
+#fire-paragraph p #bold1 {
+	font-weight: bold;
+}
+
 #bus-paragraph p {
     text-align: center;
 }
 
-.footer img {
+#bus-paragraph p #bold2 {
+	font-weight: bold;
+}
+
+img {
 	width: 100%;
 	margin: 500px auto;
+}
+
+footer .btn-group {
+	border: none;
+	color: white;
+	padding: 20px; 
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
+}
+
+.button1 {
+	background-color: #ff764e;
+}
+
+.button2 {
+	background-color: #5ed3eb;
+}
+
+.button3 {
+	background-color: #ffcd63;
 }
