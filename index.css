@@ -44,51 +44,37 @@ table {
 	border-spacing: 0;
 }
 
-#Plan-Your-Visit {
+header {
+	font-family: Chelsea market;
+}
+
+.nav_bar {
+	border: none;
+	color: white;
+	padding: 20px; 
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
+}
+
+.nav_bar button {
 	background-color: #ff764e;
-	border: none;
-	color: white;
-	padding: 20px; 
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	border-radius: 12px;
 }
 
-#Learn-About-the-Park {
+.nav_bar button {
 	background-color: #5ed3eb;
-	border: none;
-	color: white;
-	padding: 20px; 
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	border-radius: 12px;
 }
 
-#Get-Involved {
+.nav_bar button {
 	background-color: #ffcd63;
-	border: none;
-	color: white;
-	padding: 20px; 
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	border-radius: 12px;
 }
 
 img {
 	border-radius: 50%;
 }
-
-
-
 
 .great-valley {
 	background-color: #DDB9A3;	
