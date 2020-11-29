@@ -44,8 +44,8 @@ table {
 	border-spacing: 0;
 }
 
-header {
-	font-family: Chelsea market;
+html, body {
+	font-family: Roboto Mono;
 }
 
 .nav_bar {
@@ -60,7 +60,7 @@ header {
 	border-radius: 12px;
 }
 
-.nav_bar button {
+.nav_bar {
 	background-color: #ff764e;
 }
 
