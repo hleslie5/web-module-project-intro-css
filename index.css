@@ -72,15 +72,15 @@ header .btn-group {
 	background-color: #ffcd63;
 }
 
-img {
+.content_1 img {
+	width: 250px;
 	border-radius: 50%;
+	margin: 100px;
 }
 
-.content_1_box header h1 {
+.content_1_box h1 {
 	font-family: 'Chelsea Market';
 }
-
-
 
 .great-valley {
 	background-color: #DDB9A3;	
