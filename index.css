@@ -48,7 +48,11 @@ html, body {
 	font-family: 'Roboto Mono';
 }
 
-header #btn-group #plan {
+body {
+	background: white;
+}
+
+.container .button-plan {
 	border: none;
 	color: white;
 	padding: 20px; 
@@ -61,7 +65,7 @@ header #btn-group #plan {
 	background-color: #ff764e;
 }
 
-header #btn-group #learn {
+.container .button-learn {
 	border: none;
 	color: white;
 	padding: 20px; 
@@ -74,7 +78,7 @@ header #btn-group #learn {
 	background-color: #5ED3EB;
 }
 
-header #btn-group #get {
+.container .button-get {
 	border: none;
 	color: white;
 	padding: 20px; 
