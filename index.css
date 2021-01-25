@@ -48,7 +48,7 @@ html, body {
 	font-family: 'Roboto Mono';
 }
 
-header .btn-group {
+header #btn-group #plan {
 	border: none;
 	color: white;
 	padding: 20px; 
@@ -58,17 +58,32 @@ header .btn-group {
 	font-size: 16px;
 	margin: 4px 2px;
 	border-radius: 12px;
-}
-
-.button1 {
 	background-color: #ff764e;
 }
 
-.button2 {
-	background-color: #5ed3eb;
+header #btn-group #learn {
+	border: none;
+	color: white;
+	padding: 20px; 
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
+	background-color: #5ED3EB;
 }
 
-.button3 {
+header #btn-group #get {
+	border: none;
+	color: white;
+	padding: 20px; 
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
 	background-color: #ffcd63;
 }
 
