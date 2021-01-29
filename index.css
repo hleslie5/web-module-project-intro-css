@@ -44,7 +44,7 @@ table {
 	border-spacing: 0;
 }
 
-header nav .header-buttons {
+.header-buttons .plan {
 	border: none;
 	color: white;
 	padding: 20px; 
@@ -57,7 +57,7 @@ header nav .header-buttons {
 	background-color: #ff764e;
 }
 
-header nav .header-buttons {
+.header-buttons .learn {
 	border: none;
 	color: white;
 	padding: 20px; 
@@ -70,7 +70,7 @@ header nav .header-buttons {
 	background-color: #5ED3EB;
 }
 
-header nav .header-buttons {
+.header-buttons .get {
 	border: none;
 	color: white;
 	padding: 20px; 
@@ -84,8 +84,8 @@ header nav .header-buttons {
 }
 
 .content_1 img {
-
 	border-radius: 50%;
+
 }
 
 .content_1_box h1 {
@@ -112,11 +112,18 @@ header nav .header-buttons {
 	font-weight: bold;
 }
 
-#bus-paragraph p {
+.rv-picture img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#rv-paragraph p {
     text-align: center;
 }
 
-#bus-paragraph p #bold2 {
+#rv-paragraph p #bold2 {
 	font-weight: bold;
 }
 
@@ -124,8 +131,6 @@ header nav .header-buttons {
 	max-width: 100%;
 	height: auto;
 }
-
-
 
 footer .btn-group {
 	border: none;
@@ -139,14 +144,41 @@ footer .btn-group {
 	border-radius: 12px;
 }
 
-.button1 {
+.footer-buttons .plan {
+	border: none;
+	color: white;
+	padding: 20px; 
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
 	background-color: #ff764e;
 }
 
-.button2 {
-	background-color: #5ed3eb;
+.footer-buttons .learn {
+	border: none;
+	color: white;
+	padding: 20px; 
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
+	background-color: #5ED3EB;
 }
 
-.button3 {
+.footer-buttons .get {
+	border: none;
+	color: white;
+	padding: 20px; 
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px;
 	background-color: #ffcd63;
 }
