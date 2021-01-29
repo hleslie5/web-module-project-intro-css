@@ -85,12 +85,18 @@ table {
 
 .content_1 img {
 	border-radius: 50%;
-
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	width: 200px; 
 }
 
-.content_1_box h1 {
+.content_1_box_text_content {
+	display: block;
 	text-align: center;
 	font-family: 'Chelsea Market';
+	margin: 125px;
+	
 }
 
 #great-valley {
