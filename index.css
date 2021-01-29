@@ -104,7 +104,14 @@ table {
 	background-position: center;
 }
 
-#fire-paragraph p {
+.campfire-and-rv-paragraphs .fire-picture img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.campfire-and-rv-paragraphs #fire-paragraph p {
     text-align: center;
 }
 
