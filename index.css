@@ -96,13 +96,15 @@ table {
 	text-align: center;
 	font-family: 'Chelsea Market';
 	margin: 125px;
-	
+
 }
 
 #great-valley {
-	background-color: #DDB9A3;	
+	background-color: #DDB9A3;
+	padding: 15px;	
 	text-align: center;
 	font-family: 'Roboto Mono';
+	color: white;
 }
 
 #image-container {
