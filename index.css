@@ -44,6 +44,10 @@ table {
 	border-spacing: 0;
 }
 
+* {
+	font-family: 'Roboto Mono';
+}
+
 .header-buttons .plan {
 	border: none;
 	color: white;
@@ -94,9 +98,11 @@ table {
 .content_1_box_text_content {
 	display: block;
 	text-align: center;
-	font-family: 'Chelsea Market';
 	margin: 125px;
+}
 
+.content_1_box_text_content h1 {
+	font-family: 'Chelsea Market';
 }
 
 #great-valley {
