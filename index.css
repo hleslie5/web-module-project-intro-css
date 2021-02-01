@@ -46,6 +46,7 @@ table {
 
 * {
 	font-family: 'Roboto Mono';
+	box-sizing: border-box;
 }
 
 .container {
@@ -97,14 +98,14 @@ table {
 	border-radius: 50%;
 	position: absolute;
 	top: 200px;
-	left: 300px;
+	left: 75px;
 	width: 200px; 
 }
 
 .content_1_box_text_content {
 	display: block;
 	text-align: center;
-	margin: 125px;
+	margin: 25px 50px 75px 50px;
 }
 
 .content_1_box_text_content h1 {
@@ -165,7 +166,6 @@ footer .container {
 	justify-content: center;
 	align-items: center;
 	background-color: #FFEBCD;
-	padding: 1em;
 }
 
 footer .container .footer-buttons .plan {
@@ -189,7 +189,7 @@ footer .container .footer-buttons .learn {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 16px;
-	margin: 50px 300px;
+	margin: 50px 300 px;
 	border-radius: 12px;
 	background-color: #5ED3EB;
 }
